@@ -26,7 +26,7 @@
 
 /***********************************************************************
 * Title: djb2 hash algorithm
-* Author: Bernstein, Daniel J. aka (djb)
+* Author: Bernstein, Daniel J. (aka djb)
 * Year: 1991
 * Code from: http://www.cse.yorku.ca/~oz/hash.html
 * Original Source: https://groups.google.com/g/comp.lang.c/c/lSKWXiuNOAk
