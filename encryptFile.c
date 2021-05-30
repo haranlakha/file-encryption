@@ -19,6 +19,10 @@
 * On decryption, the program will not tell you if your password is the same as the one
 * used to generate the encrypted file. It will generate an output file regardless.
 *
+* PASSWORD LENGTH:
+* The longer the password is, the more secure your file becomes.
+* Short passwords can be cracked in seconds.
+*
 * Compile: 
 * 	cc encryptFile.c -o encryptFile
 *
