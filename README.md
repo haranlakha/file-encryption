@@ -17,3 +17,4 @@ cc encryptFile.c -o encryptFile
 ```
 ./encryptFile [input file] [output file]
 ```
+You will then be prompted to provided a password to encrypt the file
